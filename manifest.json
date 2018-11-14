@@ -1,0 +1,30 @@
+{
+    "name": "Kelompok 31",
+    "short_name": "Weather",
+    "icons": [{
+      "src": "images/icons/cuaca4-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "images/icons/cuaca4-144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "images/icons/cuaca4-152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "images/icons/cuaca4-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }, {
+        "src": "images/icons/cuaca4-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#4eb53f",
+    "theme_color": "#3fb54a"
+  }
+  
